@@ -1,0 +1,6 @@
+anthropic
+mcp
+mcp-server-fetch
+python-dotenv
+gradio
+reportlab
